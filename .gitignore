@@ -9,7 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # dotenv environment files
-.env
 
 # Build outputs
 dist/
